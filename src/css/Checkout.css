@@ -1,0 +1,26 @@
+.checkoutUl{
+    display: flex;
+    /*flex-wrap: wrap;*/
+    width: 100%;
+    justify-content: center;
+    margin: 3rem 0 3rem;
+    flex-direction: column;
+}
+
+.checkout-div{
+    text-align: center;
+    margin-top: 5rem;
+}
+
+li{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    flex-direction: column;
+    align-content: center;
+}
+
+.checkout-img{
+    width: 10%;
+    margin: 1rem;
+}
