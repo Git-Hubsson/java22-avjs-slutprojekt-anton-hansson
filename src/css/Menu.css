@@ -8,6 +8,8 @@ nav{
     width: 100%;
     position: fixed;
     top: 0;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    font-size: 1.1em;
 }
 
 h2{
@@ -56,16 +58,28 @@ aside{
 .cart-div{
     position: relative;
     cursor: pointer;
-    /*margin: 1rem;*/
 }
 
 .search-form{
-    width: 40%;
+    width: 50rem;
     display: flex;
     flex-direction: row;
     align-items: center;
 }
 
-/*button{*/
-/*    margin-left: 10px;*/
-/*}*/
+.search-button{
+    opacity: 80%;
+    border: none;
+    margin-left: 10px;
+    height: 2rem;
+    width: 5rem;
+    border-radius: 10px;
+}
+
+input {
+    border-radius: 20px;
+    padding: 7px;
+    border: 2px solid #ccc;
+    width: 25%;
+    margin-left: 37%;
+}

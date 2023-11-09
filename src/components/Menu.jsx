@@ -51,7 +51,7 @@ export default function Menu({
             <nav>
                 <form className='search-form' onSubmit={handleSubmit}>
                     <input type='text' onChange={handleInputChange}/>
-                    <button type='submit'>Search</button>
+                    <button className='search-button' type='submit'>Search</button>
                 </form>
                 <h2 onClick={handleProductClick}>Produkter</h2>
                 <div className='cart-div' onClick={handleCartClick}>

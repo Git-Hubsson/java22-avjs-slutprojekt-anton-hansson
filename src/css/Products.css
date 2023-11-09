@@ -21,15 +21,10 @@ li{
     justify-content: center;
 }
 
-form{
+form {
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-content: center;
     padding: 0.5rem;
-}
-
-input{
-    width: 25%;
-    margin-left: 37%;
 }
