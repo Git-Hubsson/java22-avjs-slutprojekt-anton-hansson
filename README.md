@@ -19,7 +19,7 @@ Firebase: Used for storing and retrieving product data.
 
 CSS: For styling components.
 ## Setup and Installation
-Clone the Repository: git clone https://github.com/Git-Hubsson/-JAVA22-avjs-mp1-Anton-Hansson.git
+Clone the Repository: git clone [https://github.com/Git-Hubsson/-JAVA22-avjs-mp1-Anton-Hansson.git](https://github.com/Git-Hubsson/java22-avjs-slutprojekt-anton-hansson.git)
 
 Install Dependencies: Run npm install in the project directory.
 
