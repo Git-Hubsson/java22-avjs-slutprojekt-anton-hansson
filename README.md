@@ -23,7 +23,7 @@ Clone the Repository: git clone https://github.com/Git-Hubsson/-JAVA22-avjs-mp1-
 
 Install Dependencies: Run npm install in the project directory.
 
-Start the Application: Execute npm start to run the app in development mode.
+Start the Application: Execute npm run build to run the app in development mode.
 ## Components
 App: Main application component.
 
